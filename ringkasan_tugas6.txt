@@ -1,0 +1,18 @@
+=== STATISTIK NUMPY ===
+Rata-rata: 73.70
+Median: 71.00
+Standar Deviasi: 11.71
+Min: 57
+Max: 92
+
+=== RINGKASAN DATAFRAME ===
+Jumlah Data: 5
+Lulus: 3
+Tidak Lulus: 2
+
+=== OOP SUMMARY ===
+Total Data: 5
+Rata-rata Nilai: 75.80
+Persentase Lulus: 60.0%
+Lulus: 3
+Tidak Lulus: 2
